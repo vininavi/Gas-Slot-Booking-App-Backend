@@ -6,6 +6,11 @@ import userRoute from "./Routes/userRoute.js";
 
 dotenv.config();
 
+// var myAPIkey = process.env.myAPIkey
+// console.log(process.env)
+
+// console.log(myAPIkey)
+
 // Declaration
 const app = express();
 
